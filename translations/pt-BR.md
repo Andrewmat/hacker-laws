@@ -125,7 +125,7 @@ Exemplos:
 
 ### Lei de Brook
 
-[Lei de Brooks na Wikipeia](https://en.wikipedia.org/wiki/Brooks%27s_law)
+[Lei de Brooks na Wikipédia](https://en.wikipedia.org/wiki/Brooks%27s_law)
 
 
 > Adicionar recursos humanos em um projeto, de desenvolvimento de sotware, atrasado, faz ficar ainda mais atrasado.
@@ -144,7 +144,7 @@ Veja também:
 
 ### Lei de Conway
 
-[Lei de Conway na wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
+[Lei de Conway na Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
 
 Essa lei sugere que limites técnicos de um sistema refletirão na estrutura da organização. Se uma organização é estruturada em pequenos setores, desconexas unidades, o sofware que ela produz sera assim também. Se uma organização é construida de forma vertical, em torno de funcionalidades e serviços, terá reflexo disso dentro do sistema.
 
@@ -219,7 +219,7 @@ Veja também:
 
 ### Navalha de Hanlon
 
-[Navalha de Hanlon na wikipedia](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
+[Navalha de Hanlon na Wikipedia](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
 > Nunca atribua à malícia aquilo que é adequadamente explicado por estupidez.
 >
@@ -320,7 +320,7 @@ Veja também:
 
 ### Lei de Moore
 
-[Lei de Moore na wikipedia](https://en.wikipedia.org/wiki/Moore%27s_law)
+[Lei de Moore na Wikipedia](https://en.wikipedia.org/wiki/Moore%27s_law)
 
 > O número de transistores dentro de um circuito integrado dobra a cada 2 anos, aproximadamente.
 
@@ -391,7 +391,7 @@ Contudo, _Otimização Prematura_ pode ser definida (em termos menos carregados)
 
 ### Lei de Putt
 
-[Lei de Putt na wikipedia](https://en.wikipedia.org/wiki/Putt%27s_Law_and_the_Successful_Technocrat)
+[Lei de Putt na Wikipedia](https://en.wikipedia.org/wiki/Putt%27s_Law_and_the_Successful_Technocrat)
 
 > Tecnologia é dominada por dois tipos de pessoa. Aqueles que entendem o que não gerenciam e aqueles que gerenciam o que não entendem.
 
@@ -420,7 +420,7 @@ Veja também:
 
 ### A Lei da Conservação da Complexidade (Lei de Tesler)
 
-[A lei da Conservação de Complexidade na wikipedia](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity)
+[A lei da Conservação de Complexidade na Wikipedia](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity)
 
 Essa lei sugere que em todos sitemas sempre vai existir uma quantidade de complexidade que não pode ser reduzida.
 
